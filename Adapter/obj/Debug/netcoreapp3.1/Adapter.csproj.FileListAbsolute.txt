@@ -1,0 +1,14 @@
+D:\Visual Studio расположение\source\repos\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.exe
+D:\Visual Studio расположение\source\repos\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.deps.json
+D:\Visual Studio расположение\source\repos\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.json
+D:\Visual Studio расположение\source\repos\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.dev.json
+D:\Visual Studio расположение\source\repos\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.dll
+D:\Visual Studio расположение\source\repos\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.pdb
+D:\Visual Studio расположение\source\repos\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.csproj.AssemblyReference.cache
+D:\Visual Studio расположение\source\repos\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio расположение\source\repos\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfoInputs.cache
+D:\Visual Studio расположение\source\repos\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfo.cs
+D:\Visual Studio расположение\source\repos\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.csproj.CoreCompileInputs.cache
+D:\Visual Studio расположение\source\repos\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
+D:\Visual Studio расположение\source\repos\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb
+D:\Visual Studio расположение\source\repos\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.genruntimeconfig.cache
